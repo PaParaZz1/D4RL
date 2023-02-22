@@ -63,5 +63,6 @@ setup(
         "numpy",
         "mujoco_py",
         "h5py",
+        "mjrl @ git+https://github.com/aravindr93/mjrl@master#egg=mjrl",
     ],
 )
